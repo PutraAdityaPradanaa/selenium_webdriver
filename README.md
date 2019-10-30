@@ -1,5 +1,6 @@
 # selenium_webdriver
 Selenium WebDriver with java from scratch
+
 In order to write scripts using the Selenium WebDriver Java client, we'll need the following:
 
 The Java programming language. For this course, we'll use version 10 or higher
