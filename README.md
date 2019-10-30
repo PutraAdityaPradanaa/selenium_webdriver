@@ -1,5 +1,5 @@
 # selenium_webdriver
-Selenium WebDriver with java from scratch
+Selenium WebDriver with java
 
 In order to write scripts using the Selenium WebDriver Java client, we'll need the following:
 
