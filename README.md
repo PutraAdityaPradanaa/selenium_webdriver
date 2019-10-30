@@ -5,28 +5,16 @@ In order to write scripts using the Selenium WebDriver Java client, we'll need t
 
 The Java programming language. For this course, we'll use version 10 or higher
 
-We're also going to use the Intelligent Editor to write our code. You can use a different editor if you like, but all of the examples in this course will be done in IntelliJ
+We're also going to use the Intelligent Editor to write our code.
 
-Selenium WebDriver can be executed against all of the major browsers, but in this course, we'll use Chrome. So we need the Selenium chromedriver executable
-
-We'll also need the Chrome browser itself
-
-The links for each of these can be found in the resources section. Let's begin.
-
+Selenium WebDriver can be executed against all of the major browsers. So we need the Selenium chromedriver executable
 
 #Installing Java
 We're on Oracle's website and this is where we can download Java.
-We see here that there are multiple versions there is Java 12, as well as Java 11, and Java 8. We need Java 10 or greater for this course.
-
+We see here that there are multiple versions there is Java 12, as well as Java 11, and Java 8. We need Java 10 or greater
 If you already have 10 or greater, then you're fine. You don't need to download this again.
 If you don't have any of those, then let's go ahead and get you set up.
 Let's use version 12.
-
-Java Version
-
-If by the time you take this course, 12 is no longer there. That's okay. Java 11 is the long-term support version, so that one should still be there for at least 3 years. So, pick whichever one you want for now.
-
-
 
 #Installing IntelliJ
 The next thing we're going to do is to install IntelliJ, which again will be the editor that we write our code in.
